@@ -47,8 +47,8 @@ function addChocolate(){
             Choclatekey.style.color='rgb(65,14,14)'; 
         break;
         case 3:
-            layer2.style.visibility = 'visible';
-            layer2.style.background = 'rgb(65,14,14)';
+            layer3.style.visibility = 'visible';
+            layer3.style.background = 'rgb(65,14,14)';
             candle.style.visibility = 'hidden';
             candle.style.top="-160px";
             document.getElementById('total').innerHTML = ' ';
@@ -58,8 +58,8 @@ function addChocolate(){
             Choclatekey.style.color='rgb(65,14,14)'; 
         break;
         case 4:
-            layer2.style.visibility = 'visible';
-            layer2.style.background = 'rgb(65,14,14)';
+            layer4.style.visibility = 'visible';
+            layer4.style.background = 'rgb(65,14,14)';
             candle.style.visibility = 'hidden';
             candle.style.top="-200px";
             document.getElementById('total').innerHTML = ' ';
@@ -69,8 +69,8 @@ function addChocolate(){
             Choclatekey.style.color='rgb(65,14,14)'; 
         break;
         case 5:
-            layer2.style.visibility = 'visible';
-            layer2.style.background = 'rgb(65,14,14)';
+            layer5.style.visibility = 'visible';
+            layer5.style.background = 'rgb(65,14,14)';
             candle.style.visibility = 'hidden';
             candle.style.top="-240px";
             document.getElementById('total').innerHTML = ' ';
